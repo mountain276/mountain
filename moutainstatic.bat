@@ -1,5 +1,5 @@
 @echo off
-color 40
+color c
 cls
 echo                   MOUNTAIN OWN IT
 echo @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
